@@ -7,7 +7,7 @@ package arrayapi;
 
 /**
  *
- * @author Customer
+ * @author Harny
  */
 public class ArrayApi {
 
